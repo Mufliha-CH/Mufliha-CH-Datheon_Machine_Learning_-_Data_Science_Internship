@@ -43,5 +43,3 @@ jupyter notebook Telco_Churn_Classifier.ipynb
 ```
 Run all cells from top to bottom.
 
-## Other tasks
-Additional tasks will be added in their own folders (e.g. `Task1_.../`).
